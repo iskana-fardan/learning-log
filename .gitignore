@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java build files
+*.class
+
+# Maven / Gradle (jaga-jaga kalau nanti pakai)
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
